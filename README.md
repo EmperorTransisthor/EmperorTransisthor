@@ -4,4 +4,4 @@ Hi, my name is Michał. I'm 3rd year Electronics and Telecommunications student.
 - I’m currently learning Machine Learning, Cybersecurity and C++ 20.
 - https://www.hackerrank.com/but19pl
 - Email: michalbogon@o2.pl
-- Currently, I'm not looking for a job
+- My engineering work is about Predicting Time Series with Exponential Smoothing (gonna publish results, when ready).
