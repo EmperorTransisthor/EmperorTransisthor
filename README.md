@@ -1,4 +1,4 @@
-Hi, my name is Michał. I'm 3rd year Electronics and Telecommunications student.
+Hi, my name is Michał. I'm 4th year Electronics and Telecommunications student.
 - Associate C++ Software Engineer at Sabre Corporation.
 - I’m interested in programming, astronomy and military.
 - I’m currently learning Machine Learning, Cybersecurity and C++ 20.
