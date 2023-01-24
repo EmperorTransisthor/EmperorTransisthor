@@ -1,5 +1,5 @@
 Hi, my name is Michał. I'm Electronics and Telecommunications graduate. Currently, I'm continuing my studies, studying Applied Computer Science at Warsaw University of Technology
-- Associate C++ Software Engineer at Sabre Corporation.
+- Contributor C++ Software Engineer at Sabre Corporation.
 - I’m interested in programming, astronomy and military.
 - I’m currently learning Machine Learning, Cybersecurity and C++ 20.
 - https://www.hackerrank.com/but19pl
